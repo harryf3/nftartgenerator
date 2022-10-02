@@ -1,0 +1,4 @@
+Replace colors -
+#ff0000 - secondary
+#000fff - primary
+#000000 - do not change
